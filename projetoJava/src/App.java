@@ -4,7 +4,7 @@ public static void main(String[] args) {
     //comentario inserido na branch main
     System.out.println("\nHello world!");
     String version = System.getProperty("java.version");
-    System.out.println("Running Java Version: "+version+"\n");
+    System.out.println("Running Java Version: "+version+"\n"); //alteracao legal feita pelo joao
     String name = System.getProperty("user.name");
     System.out.println("User account name: "+name+"\n");
     String currDir = System.getProperty("user.dir");
