@@ -2,6 +2,7 @@ public class App {
 public static void main(String[] args) {
     //comentario inserido na branch main
     //comentario feito na branch alteracao
+    //segundo comentario feito na alteracao
     System.out.println("\nHello world!");
     String version = System.getProperty("java.version");
     System.out.println("Running Java Version: "+version+"\n");
